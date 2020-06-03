@@ -1,11 +1,16 @@
 _repo: The-Art-and-the-Romance-of-Indian-Basketry-Clark-Field-Collection-Philbrook-Art-Center-Tulsa-__62285
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62285-h/images/cover.jpg
 creator:
   author:
     agent_name: Field, Clark
     gutenberg_agent_id: '51874'
     url: http://www.gutenberg.org/2009/agents/51874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62285#The-Art-and-the-Romance-of-Indian-Basketry-Clark-Field-Collection-Philbrook-Art-Center-Tulsa-_
 gutenberg_issued: '2020-05-30'
 gutenberg_type: Text
 identifiers:
